@@ -3,3 +3,24 @@
 🇩🇪: Almanya
 🇫🇷: Fransa
 🇯🇵: Japonya
+🇦🇺: Avustralya
+🇧🇷: Brezilya
+🇨🇳: Çin
+🇮🇳: Hindistan
+🇮🇹: İtalya
+🇲🇽: Meksika
+🇲🇦: Fas
+🇲🇪: Karadağ
+🇳🇱: Hollanda
+🇵🇱: Polonya
+🇷🇺: Rusya
+🇪🇸: İspanya
+🇨🇭: İsviçre
+🇰🇷: Güney Kore
+🇳🇿: Yeni Zelanda
+🇳🇴: Norveç
+🇵🇹: Portekiz
+🇦🇹: Avusturya
+🇨🇴: Kolombiya
+🇪🇪: Estonya
+🇷🇴: Romanya
