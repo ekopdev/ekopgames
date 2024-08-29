@@ -1,0 +1,2 @@
+# ekopgames
+Ekop Games Veri
