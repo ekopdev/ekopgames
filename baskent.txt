@@ -1,3 +1,20 @@
 Ankara: Türkiye
 Moskova: Rusya
+Bakü: Azerbaycan
 Berlin: Almanya
+Washington, D.C.: Amerika
+Paris: Fransa
+Tokyo: Japonya
+Londra: Birleşik Krallık
+Pekin: Çin
+New Delhi: Hindistan
+Roma: İtalya
+Ottawa: Kanada
+Canberra: Avustralya
+Brüksel: Belçika
+Cidde: Suudi Arabistan
+Johannesburg: Güney Afrika
+São Paulo: Brezilya
+Buenos Aires: Arjantin
+Kahire: Mısır
+Seul: Güney Kore
