@@ -31,4 +31,3 @@ Bir adada yaşar, ama denizle çevrilidir. : Ada
 Başında kıl yoktur, ama her zaman tüy döker. : Tüy
 Sadece bir yaprağı vardır, ama hiç düşmez. : Takvim
 Ne kadar bakarsan bak, asla görünmez. : Gece
-Her şeyi görebilir, ama hiç gözleri yoktur. : Aynadır
