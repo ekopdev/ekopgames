@@ -1,3 +1,34 @@
 Gelir, geçer sahilden, Tuzlu suyu taşır içinden. : Dalga
 Toprağın altında ağlar, tepesinde güler, Yemeğe katılırsa, herkesin gözleri yaşarır. : Soğan
 Dağdan gelir, taştan gelir, kırk kişiye taştan gelir. : Su
+Kışın giyerim, yazın çıkarım. Üzerinde delikler vardır, ama bir delik bile olmayan bir yerdir. : Kazak
+Üzerinde yaşar, içi boş, yüksekten düşer, kırılmaz. : Yumurta
+Üzerinde yazısı yok, ama her şeyi bilirsin. Herkesin elinde vardır. : Kitap
+Bir evde yaşar, ama kapısı yok. Evin içi hep karanlık, ama hiç kapalı kalmaz. : Fener
+Gün gelir, içi dolu olur. Gün gelir, içine bakarsın, boş olur. : Gökyüzü
+Dışarıda gezip tozmaz, evde oturur, kocaman bir ağzı vardır. : Yastık
+İçinde her şey olur ama sadece bir eşyayı taşır. : Çanta
+Bir elin nesi var, iki elin sesi var. : El
+Sürekli döner, ama asla yerinden ayrılmaz. : Rüzgar gülü
+Görmeden konuşur, dinlemeden susar. : Telefon
+Bir dağın etrafında döner, ama dağdan hiç uzaklaşmaz. : Yol
+İki ucundan bir köprüden geçer, ama köprünün kendisi yoktur. : Tel
+Bir kapalı kutuda yaşar, ama hiç kapalı kalmaz. : Yumurta
+Gündüzleri açar, geceleyin kapanır. : Çiçek
+Gözleri vardır, ama görmez. : Düğme
+Ne kadar çeksen de hiç uzamaz, ne kadar bıraksan da hiç küçülmez. : Elbise
+Bir kapalı kutuda saklanır, ama asla bozulmaz. : Konserve
+Yükseklerde uçar, ama hiç uçamaz. : Bayrak
+Su gibi akar, ama su değil. : Zaman
+Başlangıcı yok, sonu da yok. : Çember
+Bir yerden bir yere gider, ama asla yürüyemez. : Yol
+İçindeki şeyleri saklar, ama kendisi asla dolmaz. : Kova
+Her zaman doğru söyler, ama konuşmaz. : Saat
+Sürekli çalışır, ama hiç yorulmaz. : Rüzgar
+Her şeyden önce gelir, ama sonradan gelir. : Gece
+İki kapısı vardır, ama içeri girilmez. : Kilit
+Bir adada yaşar, ama denizle çevrilidir. : Ada
+Başında kıl yoktur, ama her zaman tüy döker. : Tüy
+Sadece bir yaprağı vardır, ama hiç düşmez. : Takvim
+Ne kadar bakarsan bak, asla görünmez. : Gece
+Her şeyi görebilir, ama hiç gözleri yoktur. : Aynadır
